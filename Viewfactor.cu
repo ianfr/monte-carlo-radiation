@@ -24,8 +24,8 @@ constexpr double Y = 1;
 constexpr double Z = 2;
 
 // Number of trials and points
-constexpr int trials = (int)5e4;
-constexpr int N = (int)1e7;
+constexpr int trials = (int)5e3;
+constexpr int N = (int)1e5;
 
 double sdCalc(float mean, thrust::host_vector<float> data);
 
