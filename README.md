@@ -15,10 +15,10 @@ standard deviation: 0.000792459
 standard error: 1.12071e-05
 
 Histogram showing the distribution of calculated view factors:
-![](GPU/output/vf-hist.png)
+![](output/vf-hist.png)
 
 Scatter plot showing the calculated view factor for each trial with the horizontal line representing the mean:
-![](GPU/output/vf-plot.png)
+![](output/vf-plot.png)
 
 ## Speedup
 For 5000 trials with 10^5 iterations each:
