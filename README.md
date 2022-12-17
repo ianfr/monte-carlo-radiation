@@ -11,7 +11,9 @@ the horizontal surface.
 ## Results
 
 mean view factor: 0.232858
+
 standard deviation: 0.000792459
+
 standard error: 1.12071e-05
 
 Histogram showing the distribution of calculated view factors:
